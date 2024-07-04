@@ -1,5 +1,5 @@
-# OIBSIP_Task2Leve2_Tempreature-Converter-Website
-I Developed this Tribute Page using HTML &amp; CSS , JAVA SCRIPT
+# OIBSIP_Task2Leve2_TributePage
+ Developed this Tribute Page using HTML &amp; CSS , JAVA SCRIPT
 <!DOCTYPE html>
 <html lang="en">
   <head>
